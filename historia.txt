@@ -7,3 +7,5 @@ Hoy hablaremos de su vida y obra maestra.
 en camara parece gordo, pero la verda no es tan gordo XD
 
 oficial senior bg
+
+commit 55532ac
